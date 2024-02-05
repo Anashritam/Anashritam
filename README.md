@@ -1,3 +1,4 @@
+<img alt="SpaceTime" width="1500" height="250" src="https://github.com/Anashritam/Anashritam/blob/main/Spacetime.jpg">
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  

@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Deep Learning and Java and Python
 - 👯 I’m looking to collaborate on Machine Learning, Data Science and Neural Networks related projects
 - 💬 Ask me about ML, DL, DSA
-- 📫 How to reach me: hrishikesh3221@gmail.com
+- 📫 How to reach me: rishikesh7shukla@gmail.com
 - ⚡ Fun fact: I start singing when get stuck in problems.
 
 <br/>  

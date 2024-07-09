@@ -57,7 +57,7 @@
   <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks" height="50" /></a>
   <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/270px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-  <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://astropy.org/logo/astropy_logo_main.svg" alt="Astropy" height="50" /></a>
+  <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://numfocus.org/wp-content/uploads/2017/10/sticker-astropy.jpg" alt="Astropy" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gis.png" alt="Geographic Information Systems" height="50" /></a>
 </div>
 </table>

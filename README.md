@@ -55,7 +55,7 @@
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="Natural Language Processing" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan.png" alt="Generative Adversarial Networks" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks" height="50" /></a>
-  <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv.png" alt="OpenCV" height="50" /></a>
+  <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/270px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
   <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://astropy.org/logo/astropy_logo_main.svg" alt="Astropy" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gis.png" alt="Geographic Information Systems" height="50" /></a>

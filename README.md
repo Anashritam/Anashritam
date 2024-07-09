@@ -7,11 +7,12 @@
 ### <div align="center">I'm Rishikesh, an AI ML Enthusiast and currently working on various projects of Deep Learning.</div>  
   
 
-- 🌱 I’m currently learning Data Analysis and Deep Learning  
-  
-
-- ❓ Ask me about anything related to Deep learning and its related techs  
-  
+- 🔭 I’m currently working on Computer Vision
+- 🌱 I’m currently learning Deep Learning and Java and Python
+- 👯 I’m looking to collaborate on Machine Learning, Data Science and Neural Networks related projects
+- 💬 Ask me about ML, DL, DSA
+- 📫 How to reach me: hrishikesh3221@gmail.com
+- ⚡ Fun fact: I start singing when get stuck in problems.
 
 <br/>  
 

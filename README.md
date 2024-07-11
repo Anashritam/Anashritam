@@ -20,46 +20,43 @@
 ## My Skill Set  
 
 <table>
-  
-</td><td valign="top" width="33%">
-
-### Cardinals
-    
-  <div align="center"> 
-  <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/51/e0/86/51e08692918050511c90908ffa7976df.jpg" alt="Machine Learning" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="Natural Language Processing" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan.png" alt="Generative Adversarial Networks" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks" height="50" /></a>
-  <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/270px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-  <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://numfocus.org/wp-content/uploads/2017/10/sticker-astropy.jpg" alt="Astropy" height="50" /></a>
-  <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gis.png" alt="Geographic Information Systems" height="50" /></a>
-</div>
-
-<tr><td valign="top" width="33%">
-
-### Frontend  
-<div align="center">  
-<a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend  
-<div align="center"> 
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a> 
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-</div>
-
+  <tr>
+    <td valign="top" width="33%">
+      <h3>Cardinals</h3>
+      <div align="center">
+        <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/51/e0/86/51e08692918050511c90908ffa7976df.jpg" alt="Machine Learning" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="Natural Language Processing" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan.png" alt="Generative Adversarial Networks" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks" height="50" /></a>
+        <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/270px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
+        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
+        <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://numfocus.org/wp-content/uploads/2017/10/sticker-astropy.jpg" alt="Astropy" height="50" /></a>
+        <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gis.png" alt="Geographic Information Systems" height="50" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Frontend</h3>
+      <div align="center">
+        <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>
+        <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
+        <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
+        <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Backend</h3>
+      <div align="center">
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+        <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
+        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
+        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>  

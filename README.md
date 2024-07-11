@@ -23,7 +23,9 @@
 
   
 ### Cardinals
-<table><div align="center"> 
+<table>
+  <tr><td valign="top" width="33%">
+  <div align="center"> 
   <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/51/e0/86/51e08692918050511c90908ffa7976df.jpg" alt="Machine Learning" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="Natural Language Processing" height="50" /></a>
   <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan.png" alt="Generative Adversarial Networks" height="50" /></a>
@@ -36,8 +38,6 @@
 
 <tr><td valign="top" width="33%">
 
-
-
 ### Frontend  
 <div align="center">  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  
@@ -49,8 +49,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center"> 

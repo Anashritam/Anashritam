@@ -18,10 +18,11 @@
 
 
 ## My Skill Set  
-<table></td><td valign="top" width="33%">
 
-
+<table>
   
+</td><td valign="top" width="33%">
+
 ### Cardinals
     
   <div align="center"> 

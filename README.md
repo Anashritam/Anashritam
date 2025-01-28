@@ -1,99 +1,74 @@
 <img alt="SpaceTime" width="1500" height="250" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <!-- 3D Profile View -->
+  <img src="https://raw.githubusercontent.com/Anashritam/Anashritam/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph"/>
 </div>  
-  
 
-### <div align="center">I'm Rishikesh, an AI ML Enthusiast and currently working on various projects of Deep Learning.</div>  
-  
+### <div align="center">🧑💻 I'm Rishikesh, an AI ML Enthusiast <br> 🚀 Currently working on Deep Learning projects</div>  
 
-- 🔭 I’m currently working on Computer Vision
-- 🌱 I’m currently learning Deep Learning and Java and Python
-- 👯 I’m looking to collaborate on Machine Learning, Data Science and Neural Networks related projects
-- 💬 Ask me about ML, DL, DSA
-- 📫 How to reach me: rishikesh7shukla@gmail.com
-- ⚡ Fun fact: I start singing when get stuck in problems.
-
-<br/>  
-
-
-## My Skill Set  
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>Cardinals</h3>
-      <div align="center">
-        <a href="https://en.wikipedia.org/wiki/Machine_learning" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/originals/51/e0/86/51e08692918050511c90908ffa7976df.jpg" alt="Machine Learning" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/Natural_language_processing" target="_blank"><img style="margin: 10px" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*-dNH8WI8Oy3etClaRvRCgw.png" alt="Natural Language Processing" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/Generative_adversarial_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gan.png" alt="Generative Adversarial Networks" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks" height="50" /></a>
-        <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/270px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" height="50" /></a>
-        <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
-        <a href="https://www.astropy.org/" target="_blank"><img style="margin: 10px" src="https://numfocus.org/wp-content/uploads/2017/10/sticker-astropy.jpg" alt="Astropy" height="50" /></a>
-        <a href="https://en.wikipedia.org/wiki/Geographic_information_system" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gis.png" alt="Geographic Information Systems" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Frontend</h3>
-      <div align="center">
-        <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>
-        <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>
-        <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>
-        <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-        <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Backend</h3>
-      <div align="center">
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-        <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
-        <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-        <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/Anashritam" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/hrishikesh7" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishikesh-shukla-22b17a25a" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://youtube.com/@Anashritm?si=v3uVtWV5fI7PpdXC" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <!-- Animated 3D Cube -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Computer+Vision+Developer;AI+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</div>
 
-<br/>  
+---
 
+### 🛠️ My Toolbox
+<!-- Interactive 3D Skill Cloud -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,keras,pytorch,java,c,cpp,git,mysql,flask,opencv,blender&perline=6" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anashritam&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="3D Language Stats" />
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Anashritam&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
+### 🌐 Cosmic Connections
+<!-- 3D Animated Social Links -->
+<div align="center"> 
+  <a href="https://linkedin.com/in/rishikesh-shukla-22b17a25a">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000&color=00ff00" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Anashritam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=00ff00" alt="GitHub"/>
+  </a>
+  <!-- Add more 3D badges here -->
+</div>
 
+---
 
-## Recent Blog Posts  
- 
+### 🚀 GitHub Launchpad
+<!-- 3D GitHub Stats with Animated Border -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anashritam&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true" alt="3D GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anashritam&theme=vision-friendly-dark&hide_border=true" alt="3D Streak Stats" />
+</div>
 
+---
+
+### 🎵 Debugging Anthem
+<!-- Animated Music Visualization -->
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31kx3jqkqg5jngc5x7f2q3mzwkqq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Visualization" />
+</div>
+
+---
+
+### 🌟 Featured Projects
+<!-- 3D Project Cards -->
+<div align="center">
+  <a href="https://github.com/Anashritam/Awesome-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anashritam&repo=Awesome-Project&theme=vision-friendly-dark&hide_border=true" alt="3D Project Card" />
+  </a>
+</div>
+
+---
+
+### 🛸 Visitor Counter
+<!-- 3D Animated Visitor Counter -->
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Anashritam" alt="visitor badge"/>
-  <img src="https://img.shields.io/github/followers/Anashritam?label=Follow&style=social" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/Anashritam?affiliations=OWNER&style=social" alt="GitHub stars"/>
+  <img src="https://profile-counter.glitch.me/Anashritam/count.svg" alt="Visitor Counter" /> 
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Anashritam&style=flat-square&color=00ff00" alt="3D Visitor Badge"/>
 </p>
-
